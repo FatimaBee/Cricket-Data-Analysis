@@ -13,11 +13,14 @@ The analysis is divided into:
 
  🖼️ Dashboard Preview
 
- 🏏 Batting Analysis
+🏏 Batting Analysis
+![Batting Dashboard](batting_dashboard.png)
 
- 🎯 Bowling Analysis
+🎯 Bowling Analysis
+![Bowling Dashboard](bowling_dashboard.png)
 
  🧤 Fielding Analysis
+![Fielding Dashboard](fielding_dashboard.png)
 
  🌐 Data Source
 
